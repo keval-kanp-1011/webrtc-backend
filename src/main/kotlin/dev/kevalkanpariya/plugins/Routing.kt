@@ -1,6 +1,5 @@
 package dev.kevalkanpariya.plugins
 
-import com.google.firebase.auth.FirebaseAuth
 import dev.kevalkanpariya.SessionManager
 import dev.kevalkanpariya.utils.FIREBASE_AUTH
 import dev.kevalkanpariya.utils.User
@@ -13,7 +12,6 @@ import io.ktor.server.websocket.*
 import io.ktor.websocket.*
 import kotlinx.coroutines.channels.ClosedReceiveChannelException
 import java.util.*
-import java.util.concurrent.TimeUnit
 
 
 fun Application.configureRouting() {

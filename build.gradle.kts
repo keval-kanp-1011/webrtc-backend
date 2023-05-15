@@ -41,9 +41,6 @@ dependencies {
     testImplementation("io.ktor:ktor-server-tests-jvm:$ktor_version")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit:$kotlin_version")
     implementation ("io.ktor:ktor-client-logging-jvm:$ktor_version")
-    implementation("com.google.firebase:firebase-admin:9.0.0")
-    //implementation ("com.google.firebase:firebase-auth-ktx")
-    //implementation ("com.google.firebase:firebase-auth:22.0.0")
 
 
 
