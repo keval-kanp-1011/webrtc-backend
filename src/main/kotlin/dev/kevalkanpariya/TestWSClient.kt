@@ -9,7 +9,7 @@ package dev.kevalkanpariya
  * https://github.com/artem-bagritsevich/WebRTCKtorSignalingServerExample
  */
 
-/*
+
 object TestWsClient1 {
     @JvmStatic
     fun main(args: Array<String>) {
@@ -61,6 +61,5 @@ object TestWsClient1 {
     }
 }
 
-*/
 
 
